@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07CE5B2D2B15531A005D0595 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 07CE5B2C2B15531A005D0595 /* SleepCalculator.mlmodel */; };
 		07DF4B1C2B05A5A4005BC283 /* BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07DF4B1B2B05A5A4005BC283 /* BetterRestApp.swift */; };
 		07DF4B1E2B05A5A4005BC283 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07DF4B1D2B05A5A4005BC283 /* ContentView.swift */; };
 		07DF4B202B05A5A5005BC283 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07DF4B1F2B05A5A5005BC283 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07CE5B2C2B15531A005D0595 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		07DF4B182B05A5A4005BC283 /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07DF4B1B2B05A5A4005BC283 /* BetterRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestApp.swift; sourceTree = "<group>"; };
 		07DF4B1D2B05A5A4005BC283 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				07DF4B1B2B05A5A4005BC283 /* BetterRestApp.swift */,
 				07DF4B1D2B05A5A4005BC283 /* ContentView.swift */,
+				07CE5B2C2B15531A005D0595 /* SleepCalculator.mlmodel */,
 				07DF4B1F2B05A5A5005BC283 /* Assets.xcassets */,
 				07DF4B212B05A5A5005BC283 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				07DF4B1E2B05A5A4005BC283 /* ContentView.swift in Sources */,
+				07CE5B2D2B15531A005D0595 /* SleepCalculator.mlmodel in Sources */,
 				07DF4B1C2B05A5A4005BC283 /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
